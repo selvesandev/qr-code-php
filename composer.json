@@ -1,0 +1,12 @@
+{
+    "name": "selvesan/qr-code-php",
+    "authors": [
+        {
+            "name": "selvesan",
+            "email": "dev.selvesan@gmail.com"
+        }
+    ],
+    "require": {
+        "endroid/qr-code": "^3.2"
+    }
+}
